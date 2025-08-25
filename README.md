@@ -29,7 +29,8 @@ By default, the notebook reads the sample CSV. For full runs, update `flows_csv`
 
 ## Attribution & licences
 - Street network: **OpenStreetMap contributors** (ODbL)  
-- Pedestrian counts: **City of Sydney Open Data** (see their terms)  
+- Pedestrian counts: **City of Sydney Open Data** (see their terms)
+- Estimated sidewalk-level pedestrian estimates are shared under the **MIT License**.
 
 Please cite data sources when sharing results.
 
